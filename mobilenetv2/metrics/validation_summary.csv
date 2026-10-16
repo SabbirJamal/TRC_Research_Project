@@ -1,0 +1,2 @@
+model,best_epoch,best_val_loss,best_val_accuracy,best_val_auc
+MobileNetV2,11,0.00019459494797047228,1.0,1.0

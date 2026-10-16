@@ -1,0 +1,2 @@
+model,split,best_epoch,threshold,accuracy,precision_nonfresh,recall_nonfresh,f1_nonfresh,roc_auc,tn,fp,fn,tp,min_probability,max_probability
+ResNet50,validation,18,0.5,1.0,1.0,1.0,1.0,1.0,93,0,0,130,3.125972014572653e-08,1.0

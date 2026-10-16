@@ -1,0 +1,2 @@
+model,best_epoch,best_val_loss,best_val_accuracy,best_val_auc
+ResNet50,18,2.782259434752632e-05,1.0,1.0

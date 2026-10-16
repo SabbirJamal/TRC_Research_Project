@@ -1,0 +1,31 @@
+{
+    "model": "MobileNetV2 Transfer Learning",
+    "backbone": "MobileNetV2",
+    "weights": "ImageNet",
+    "include_top": false,
+    "backbone_frozen": true,
+    "image_size": [
+        224,
+        224
+    ],
+    "batch_size": 32,
+    "epochs_requested": 20,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "loss": "binary_crossentropy",
+    "dense_units": 128,
+    "dropout": 0.5,
+    "preprocessing": "tensorflow.keras.applications.mobilenet_v2.preprocess_input",
+    "augmentation": true,
+    "label_mapping": {
+        "Fresh": 0,
+        "NonFresh": 1
+    },
+    "train_images": 1418,
+    "validation_images": 223,
+    "test_images": 261,
+    "test_used_during_training": false,
+    "checkpoint_monitor": "val_loss",
+    "checkpoint_mode": "min",
+    "seed": 42
+}
