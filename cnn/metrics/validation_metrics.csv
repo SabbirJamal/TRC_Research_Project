@@ -1,0 +1,2 @@
+model,split,threshold,accuracy,precision_nonfresh,recall_nonfresh,f1_nonfresh,roc_auc,tn,fp,fn,tp,min_probability,max_probability
+Custom CNN Baseline,validation,0.5,1.0,1.0,1.0,1.0,1.0,93,0,0,130,1.1166634539084702e-20,1.0

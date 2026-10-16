@@ -1,0 +1,2 @@
+model,best_epoch,best_val_loss,best_val_accuracy,best_val_auc
+EfficientNetB0,15,0.007367282174527645,0.9955157041549683,1.0

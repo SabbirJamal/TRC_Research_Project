@@ -1,0 +1,2 @@
+model,best_epoch,best_val_loss,best_val_accuracy,best_val_auc
+Custom CNN Baseline,8,5.559469329341482e-09,1.0,1.0
