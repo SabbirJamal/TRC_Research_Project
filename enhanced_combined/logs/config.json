@@ -1,0 +1,107 @@
+{
+    "model": "Enhanced ResNet50 + MobileNetV2 Feature Fusion",
+    "model_type": "deep_dual_backbone_feature_fusion",
+    "resnet50": {
+        "weights": "ImageNet",
+        "include_top": false,
+        "pooling": "avg",
+        "frozen": true,
+        "branch_dense_units": [
+            1024,
+            768,
+            512,
+            384,
+            256
+        ],
+        "branch_dropout": [
+            0.6,
+            0.6,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "preprocessing": "tensorflow.keras.applications.resnet50.preprocess_input"
+    },
+    "mobilenetv2": {
+        "weights": "ImageNet",
+        "include_top": false,
+        "pooling": "avg",
+        "alpha": 1.0,
+        "frozen": true,
+        "branch_dense_units": [
+            1024,
+            768,
+            512,
+            384,
+            256
+        ],
+        "branch_dropout": [
+            0.6,
+            0.6,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "preprocessing": "tensorflow.keras.applications.mobilenet_v2.preprocess_input"
+    },
+    "fusion_method": "concatenation",
+    "fused_feature_dimension": 512,
+    "fusion_dense_units": [
+        1024,
+        768,
+        512,
+        384,
+        256,
+        192,
+        128,
+        64,
+        32
+    ],
+    "fusion_dropout": [
+        0.6,
+        0.6,
+        0.5,
+        0.5,
+        0.5,
+        0.4,
+        0.4,
+        0.3,
+        0.3
+    ],
+    "batch_normalization": true,
+    "total_parameters": 34331777,
+    "trainable_parameters": 8467585,
+    "non_trainable_parameters": 25864192,
+    "image_size": [
+        224,
+        224
+    ],
+    "batch_size": 32,
+    "epochs_requested": 20,
+    "optimizer": "Adam",
+    "learning_rate": 0.0001,
+    "loss": "binary_crossentropy",
+    "metrics": [
+        "binary_accuracy",
+        "auc"
+    ],
+    "augmentation": true,
+    "label_mapping": {
+        "Fresh": 0,
+        "NonFresh": 1
+    },
+    "train_images": 1418,
+    "validation_images": 223,
+    "test_images": 261,
+    "test_used_during_training": false,
+    "checkpoint_monitor": "val_loss",
+    "checkpoint_mode": "min",
+    "seed": 42,
+    "methodological_corrections": [
+        "Separate architecture-specific preprocessing for both ImageNet backbones",
+        "No generic 1/255 preprocessing before pretrained networks",
+        "Correct enhanced model object used for training and later evaluation",
+        "Validation-only checkpoint selection",
+        "Test set excluded from development and model selection"
+    ]
+}

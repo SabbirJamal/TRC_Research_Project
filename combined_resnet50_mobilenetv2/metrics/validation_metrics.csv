@@ -1,0 +1,2 @@
+model,split,best_epoch,threshold,accuracy,precision_nonfresh,recall_nonfresh,f1_nonfresh,roc_auc,tn,fp,fn,tp,min_probability,max_probability
+ResNet50 + MobileNetV2 Feature Fusion,validation,20,0.5,1.0,1.0,1.0,1.0,1.0,93,0,0,130,0.00037930032704025507,0.9969083666801453

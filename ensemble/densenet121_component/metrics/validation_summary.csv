@@ -1,0 +1,2 @@
+model,best_epoch,best_val_loss,best_val_accuracy,best_val_auc
+Ensemble Component - DenseNet121,20,0.0071916645392775536,1.0,0.9999999403953552

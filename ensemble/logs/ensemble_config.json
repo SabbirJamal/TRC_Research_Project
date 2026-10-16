@@ -1,0 +1,28 @@
+{
+    "model": "ResNet50 + EfficientNetB3 + DenseNet121",
+    "method": "equal_weight_soft_voting",
+    "components": [
+        "ResNet50",
+        "EfficientNetB3",
+        "DenseNet121"
+    ],
+    "weights": {
+        "ResNet50": 0.3333333333333333,
+        "EfficientNetB3": 0.3333333333333333,
+        "DenseNet121": 0.3333333333333333
+    },
+    "probability_combination": "arithmetic mean",
+    "threshold": 0.5,
+    "threshold_selected_using_test": false,
+    "threshold_optimization_performed": false,
+    "checkpoint_selection": "minimum validation loss independently for each component",
+    "test_used_during_model_development": false,
+    "validation_images": 223,
+    "test_images": 261,
+    "label_mapping": {
+        "Fresh": 0,
+        "NonFresh": 1
+    },
+    "decision_rule_status": "FROZEN BEFORE TEST EVALUATION",
+    "seed": 42
+}

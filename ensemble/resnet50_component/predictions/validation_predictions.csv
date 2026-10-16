@@ -1,0 +1,224 @@
+path,filename,label,target,prob_nonfresh,predicted_target,predicted_label,correct
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0113.jpg,0113.jpg,Fresh,0,3.790046e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0114.jpg,0114.jpg,Fresh,0,2.4728612e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0115.jpg,0115.jpg,Fresh,0,0.00020763448,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0116.jpg,0116.jpg,Fresh,0,7.5436874e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0117.jpg,0117.jpg,Fresh,0,5.8641293e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0118.jpg,0118.jpg,Fresh,0,7.7855664e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0119.jpg,0119.jpg,Fresh,0,3.6717858e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0120.jpg,0120.jpg,Fresh,0,0.00020968386,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0121.jpg,0121.jpg,Fresh,0,1.9399062e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0122.jpg,0122.jpg,Fresh,0,0.00012198799,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0123.jpg,0123.jpg,Fresh,0,0.00031852475,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0124.jpg,0124.jpg,Fresh,0,0.00016638999,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/1_Gills_Day1/0125.jpg,0125.jpg,Fresh,0,0.00010632195,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0356.jpg,0356.jpg,Fresh,0,5.162824e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0357.jpg,0357.jpg,Fresh,0,3.0104044e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0358.jpg,0358.jpg,Fresh,0,1.6722013e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0359.jpg,0359.jpg,Fresh,0,1.259033e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0360.jpg,0360.jpg,Fresh,0,2.65098e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0361.jpg,0361.jpg,Fresh,0,4.5046014e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0362.jpg,0362.jpg,Fresh,0,3.5454268e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0363.jpg,0363.jpg,Fresh,0,4.443708e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0364.jpg,0364.jpg,Fresh,0,2.7013497e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0365.jpg,0365.jpg,Fresh,0,6.324771e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0366.jpg,0366.jpg,Fresh,0,5.2877796e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0367.jpg,0367.jpg,Fresh,0,4.4068078e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0368.jpg,0368.jpg,Fresh,0,3.7307225e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0369.jpg,0369.jpg,Fresh,0,4.6661404e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0370.jpg,0370.jpg,Fresh,0,8.0338665e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0371.jpg,0371.jpg,Fresh,0,6.392739e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0372.jpg,0372.jpg,Fresh,0,3.112031e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0373.jpg,0373.jpg,Fresh,0,3.0845233e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0374.jpg,0374.jpg,Fresh,0,1.5035857e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0375.jpg,0375.jpg,Fresh,0,3.117119e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0376.jpg,0376.jpg,Fresh,0,3.4811244e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0377.jpg,0377.jpg,Fresh,0,2.2788541e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0378.jpg,0378.jpg,Fresh,0,3.0434932e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0379.jpg,0379.jpg,Fresh,0,3.2083164e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0380.jpg,0380.jpg,Fresh,0,7.705988e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0381.jpg,0381.jpg,Fresh,0,1.1099993e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0382.jpg,0382.jpg,Fresh,0,1.6247124e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0383.jpg,0383.jpg,Fresh,0,2.8283526e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0384.jpg,0384.jpg,Fresh,0,5.063419e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0385.jpg,0385.jpg,Fresh,0,8.877583e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0386.jpg,0386.jpg,Fresh,0,2.7173845e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0387.jpg,0387.jpg,Fresh,0,1.1322825e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0388.jpg,0388.jpg,Fresh,0,6.192418e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0389.jpg,0389.jpg,Fresh,0,0.00034454805,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0390.jpg,0390.jpg,Fresh,0,0.00018687465,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0391.jpg,0391.jpg,Fresh,0,9.394295e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0392.jpg,0392.jpg,Fresh,0,6.555635e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0393.jpg,0393.jpg,Fresh,0,2.2399523e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0394.jpg,0394.jpg,Fresh,0,1.3168548e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0395.jpg,0395.jpg,Fresh,0,7.707355e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0396.jpg,0396.jpg,Fresh,0,5.869007e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0397.jpg,0397.jpg,Fresh,0,1.2989524e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0398.jpg,0398.jpg,Fresh,0,2.982212e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0399.jpg,0399.jpg,Fresh,0,6.160503e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0400.jpg,0400.jpg,Fresh,0,7.621098e-07,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0401.jpg,0401.jpg,Fresh,0,2.6252062e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0402.jpg,0402.jpg,Fresh,0,9.136406e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0403.jpg,0403.jpg,Fresh,0,1.1426507e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0404.jpg,0404.jpg,Fresh,0,5.20838e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0405.jpg,0405.jpg,Fresh,0,5.46984e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0406.jpg,0406.jpg,Fresh,0,4.6357195e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0407.jpg,0407.jpg,Fresh,0,2.20611e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0408.jpg,0408.jpg,Fresh,0,1.2906018e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0409.jpg,0409.jpg,Fresh,0,6.4966052e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0410.jpg,0410.jpg,Fresh,0,2.2980003e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0411.jpg,0411.jpg,Fresh,0,0.001256615,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0412.jpg,0412.jpg,Fresh,0,0.0015175836,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0413.jpg,0413.jpg,Fresh,0,0.0007781101,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0414.jpg,0414.jpg,Fresh,0,0.0037295187,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0415.jpg,0415.jpg,Fresh,0,0.0037217564,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0416.jpg,0416.jpg,Fresh,0,0.00087565626,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0417.jpg,0417.jpg,Fresh,0,0.0026651577,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0418.jpg,0418.jpg,Fresh,0,0.021239836,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0419.jpg,0419.jpg,Fresh,0,0.018337565,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/2_Gills_Day1/0420.jpg,0420.jpg,Fresh,0,0.017142,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0169.jpg,0169.jpg,Fresh,0,3.4711634e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0170.jpg,0170.jpg,Fresh,0,6.336201e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0171.jpg,0171.jpg,Fresh,0,1.1095622e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0172.jpg,0172.jpg,Fresh,0,1.6195594e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0173.jpg,0173.jpg,Fresh,0,7.936789e-06,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0174.jpg,0174.jpg,Fresh,0,2.3392902e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0175.jpg,0175.jpg,Fresh,0,5.0796352e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0176.jpg,0176.jpg,Fresh,0,3.551904e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0177.jpg,0177.jpg,Fresh,0,1.473391e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0178.jpg,0178.jpg,Fresh,0,5.711941e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0179.jpg,0179.jpg,Fresh,0,0.00022311155,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0180.jpg,0180.jpg,Fresh,0,0.00031018764,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0181.jpg,0181.jpg,Fresh,0,9.1368616e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0182.jpg,0182.jpg,Fresh,0,5.9162092e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/Fresh_Day1/Gills/3_Gills_Day1/0183.jpg,0183.jpg,Fresh,0,5.7022862e-05,0,Fresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0356.jpg,0356.jpg,NonFresh,1,0.996252,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0357.jpg,0357.jpg,NonFresh,1,0.9956429,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0358.jpg,0358.jpg,NonFresh,1,0.9978568,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0359.jpg,0359.jpg,NonFresh,1,0.9984567,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0360.jpg,0360.jpg,NonFresh,1,0.9994324,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0361.jpg,0361.jpg,NonFresh,1,0.99781775,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0362.jpg,0362.jpg,NonFresh,1,0.99961627,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0363.jpg,0363.jpg,NonFresh,1,0.99989426,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0364.jpg,0364.jpg,NonFresh,1,0.9996462,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0365.jpg,0365.jpg,NonFresh,1,0.99925035,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0366.jpg,0366.jpg,NonFresh,1,0.99784255,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0367.jpg,0367.jpg,NonFresh,1,0.997948,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0368.jpg,0368.jpg,NonFresh,1,0.9974975,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0369.jpg,0369.jpg,NonFresh,1,0.99816775,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0370.jpg,0370.jpg,NonFresh,1,0.99705815,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0371.jpg,0371.jpg,NonFresh,1,0.99881494,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0372.jpg,0372.jpg,NonFresh,1,0.99891496,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0373.jpg,0373.jpg,NonFresh,1,0.9993734,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0374.jpg,0374.jpg,NonFresh,1,0.9994209,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0375.jpg,0375.jpg,NonFresh,1,0.99924386,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0376.jpg,0376.jpg,NonFresh,1,0.9992962,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0377.jpg,0377.jpg,NonFresh,1,0.99862444,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0378.jpg,0378.jpg,NonFresh,1,0.99917585,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0379.jpg,0379.jpg,NonFresh,1,0.9980761,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0380.jpg,0380.jpg,NonFresh,1,0.99929166,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0381.jpg,0381.jpg,NonFresh,1,0.99962485,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0382.jpg,0382.jpg,NonFresh,1,0.9993212,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0383.jpg,0383.jpg,NonFresh,1,0.99879897,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0384.jpg,0384.jpg,NonFresh,1,0.9979631,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0385.jpg,0385.jpg,NonFresh,1,0.99719775,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0386.jpg,0386.jpg,NonFresh,1,0.9969606,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0387.jpg,0387.jpg,NonFresh,1,0.9974026,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0388.jpg,0388.jpg,NonFresh,1,0.99828327,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0389.jpg,0389.jpg,NonFresh,1,0.998212,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0390.jpg,0390.jpg,NonFresh,1,0.9986733,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0391.jpg,0391.jpg,NonFresh,1,0.9989882,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0392.jpg,0392.jpg,NonFresh,1,0.9991836,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0393.jpg,0393.jpg,NonFresh,1,0.9979863,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0394.jpg,0394.jpg,NonFresh,1,0.99784887,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0395.jpg,0395.jpg,NonFresh,1,0.9977343,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0396.jpg,0396.jpg,NonFresh,1,0.99814045,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0397.jpg,0397.jpg,NonFresh,1,0.998395,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0398.jpg,0398.jpg,NonFresh,1,0.99754924,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0399.jpg,0399.jpg,NonFresh,1,0.9974298,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0400.jpg,0400.jpg,NonFresh,1,0.9976265,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0401.jpg,0401.jpg,NonFresh,1,0.99729437,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0402.jpg,0402.jpg,NonFresh,1,0.9974474,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0403.jpg,0403.jpg,NonFresh,1,0.99543285,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0404.jpg,0404.jpg,NonFresh,1,0.9981896,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0405.jpg,0405.jpg,NonFresh,1,0.99820995,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0406.jpg,0406.jpg,NonFresh,1,0.9978677,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0407.jpg,0407.jpg,NonFresh,1,0.9977912,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0408.jpg,0408.jpg,NonFresh,1,0.9948453,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0409.jpg,0409.jpg,NonFresh,1,0.9980742,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0410.jpg,0410.jpg,NonFresh,1,0.9988594,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0411.jpg,0411.jpg,NonFresh,1,0.99789715,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0412.jpg,0412.jpg,NonFresh,1,0.99445057,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0413.jpg,0413.jpg,NonFresh,1,0.99650526,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0414.jpg,0414.jpg,NonFresh,1,0.9963405,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0415.jpg,0415.jpg,NonFresh,1,0.99563956,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0416.jpg,0416.jpg,NonFresh,1,0.9967244,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0417.jpg,0417.jpg,NonFresh,1,0.9957274,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0418.jpg,0418.jpg,NonFresh,1,0.995956,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0419.jpg,0419.jpg,NonFresh,1,0.993454,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 3/Gills/0420.jpg,0420.jpg,NonFresh,1,0.99352396,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0356.jpg,0356.jpg,NonFresh,1,0.9980228,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0357.jpg,0357.jpg,NonFresh,1,0.9943895,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0358.jpg,0358.jpg,NonFresh,1,0.995314,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0359.jpg,0359.jpg,NonFresh,1,0.9978688,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0360.jpg,0360.jpg,NonFresh,1,0.9979425,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0361.jpg,0361.jpg,NonFresh,1,0.9961528,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0362.jpg,0362.jpg,NonFresh,1,0.9933909,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0363.jpg,0363.jpg,NonFresh,1,0.9971957,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0364.jpg,0364.jpg,NonFresh,1,0.9971909,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0365.jpg,0365.jpg,NonFresh,1,0.9986733,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0366.jpg,0366.jpg,NonFresh,1,0.9988701,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0367.jpg,0367.jpg,NonFresh,1,0.99847573,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0368.jpg,0368.jpg,NonFresh,1,0.9987016,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0369.jpg,0369.jpg,NonFresh,1,0.99851435,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0370.jpg,0370.jpg,NonFresh,1,0.99715495,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0371.jpg,0371.jpg,NonFresh,1,0.9984909,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0372.jpg,0372.jpg,NonFresh,1,0.9984434,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0373.jpg,0373.jpg,NonFresh,1,0.99714416,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0374.jpg,0374.jpg,NonFresh,1,0.994934,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0375.jpg,0375.jpg,NonFresh,1,0.9976755,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0376.jpg,0376.jpg,NonFresh,1,0.99798906,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0377.jpg,0377.jpg,NonFresh,1,0.9989116,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0378.jpg,0378.jpg,NonFresh,1,0.9984144,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0379.jpg,0379.jpg,NonFresh,1,0.9993074,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0380.jpg,0380.jpg,NonFresh,1,0.99968386,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0381.jpg,0381.jpg,NonFresh,1,0.99978155,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0382.jpg,0382.jpg,NonFresh,1,0.998401,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0383.jpg,0383.jpg,NonFresh,1,0.9986827,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0384.jpg,0384.jpg,NonFresh,1,0.99915195,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0385.jpg,0385.jpg,NonFresh,1,0.99758196,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0386.jpg,0386.jpg,NonFresh,1,0.9985251,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0387.jpg,0387.jpg,NonFresh,1,0.999746,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0388.jpg,0388.jpg,NonFresh,1,0.9994875,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0389.jpg,0389.jpg,NonFresh,1,0.99977595,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0390.jpg,0390.jpg,NonFresh,1,0.99884975,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0391.jpg,0391.jpg,NonFresh,1,0.996702,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0392.jpg,0392.jpg,NonFresh,1,0.9964457,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0393.jpg,0393.jpg,NonFresh,1,0.9972741,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0394.jpg,0394.jpg,NonFresh,1,0.9990038,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0395.jpg,0395.jpg,NonFresh,1,0.998904,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0396.jpg,0396.jpg,NonFresh,1,0.99975663,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0397.jpg,0397.jpg,NonFresh,1,0.9997577,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0398.jpg,0398.jpg,NonFresh,1,0.99943715,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0399.jpg,0399.jpg,NonFresh,1,0.9995338,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0400.jpg,0400.jpg,NonFresh,1,0.99890363,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0401.jpg,0401.jpg,NonFresh,1,0.9989065,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0402.jpg,0402.jpg,NonFresh,1,0.9988877,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0403.jpg,0403.jpg,NonFresh,1,0.99933547,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0404.jpg,0404.jpg,NonFresh,1,0.99894625,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0405.jpg,0405.jpg,NonFresh,1,0.99931014,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0406.jpg,0406.jpg,NonFresh,1,0.9994593,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0407.jpg,0407.jpg,NonFresh,1,0.9992761,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0408.jpg,0408.jpg,NonFresh,1,0.9995394,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0409.jpg,0409.jpg,NonFresh,1,0.9997459,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0410.jpg,0410.jpg,NonFresh,1,0.99962664,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0411.jpg,0411.jpg,NonFresh,1,0.999699,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0412.jpg,0412.jpg,NonFresh,1,0.999746,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0413.jpg,0413.jpg,NonFresh,1,0.9997826,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0414.jpg,0414.jpg,NonFresh,1,0.99963367,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0415.jpg,0415.jpg,NonFresh,1,0.9995714,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0416.jpg,0416.jpg,NonFresh,1,0.9989624,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0417.jpg,0417.jpg,NonFresh,1,0.9994537,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0418.jpg,0418.jpg,NonFresh,1,0.9994386,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0419.jpg,0419.jpg,NonFresh,1,0.99963534,1,NonFresh,True
+/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/NonFresh/Day 4/Gills/0420.jpg,0420.jpg,NonFresh,1,0.9994784,1,NonFresh,True

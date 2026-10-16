@@ -1,0 +1,2 @@
+model,best_epoch,best_val_loss,best_val_accuracy,best_val_auc
+Enhanced ResNet50 + MobileNetV2 Feature Fusion,11,0.6784945130348206,0.5829596519470215,0.811124861240387

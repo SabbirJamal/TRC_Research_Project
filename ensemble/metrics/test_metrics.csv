@@ -1,0 +1,5 @@
+model,split,threshold,accuracy,precision_nonfresh,recall_nonfresh,f1_nonfresh,roc_auc,tn,fp,fn,tp,min_probability,max_probability
+Ensemble Component - ResNet50,test,0.5,1.0,1.0,1.0,1.0,1.0,113,0,0,148,8.984900432551512e-07,0.9995953440666199
+Ensemble Component - EfficientNetB3,test,0.5,0.9195402298850575,0.8757396449704142,1.0,0.9337539432176656,1.0,92,21,0,148,2.8954530080227414e-06,0.9997835755348206
+Ensemble Component - DenseNet121,test,0.5,1.0,1.0,1.0,1.0,1.0,113,0,0,148,2.188161033700453e-06,0.999847412109375
+Final Equal-Weight Ensemble,test,0.5,1.0,1.0,1.0,1.0,1.0,113,0,0,148,3.406856876608799e-06,0.9993947148323059

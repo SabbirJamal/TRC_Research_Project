@@ -1,0 +1,29 @@
+{
+    "timestamp_utc": "2026-09-13T09:30:56.099355+00:00",
+    "status": "FROZEN BEFORE FIRST TEST EVALUATION",
+    "test_images": 261,
+    "expected_test_images": 261,
+    "label_mapping": {
+        "Fresh": 0,
+        "NonFresh": 1
+    },
+    "ensemble_method": "equal_weight_soft_voting",
+    "weights": {
+        "ResNet50": 0.3333333333333333,
+        "EfficientNetB3": 0.3333333333333333,
+        "DenseNet121": 0.3333333333333333
+    },
+    "threshold": 0.5,
+    "threshold_optimized_on_test": false,
+    "model_selection_used_test": false,
+    "model_files": {
+        "ResNet50": "/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/research_outputs/ensemble/resnet50_component/models/best_model.keras",
+        "EfficientNetB3": "/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/research_outputs/ensemble/efficientnetb3_component/models/best_model.keras",
+        "DenseNet121": "/mnt/c/Users/Marya/Downloads/archive/Kaggle_upload/research_outputs/ensemble/densenet121_component/models/best_model.keras"
+    },
+    "model_sha256": {
+        "ResNet50": "f05caf5439529a26f4b083d1b7c6f19d787dea87d7c2237a72c477dc53257e0c",
+        "EfficientNetB3": "1fb569c37db58bd36dcbabe87a3f40ca8197839297b8d66712c6f420b788bad7",
+        "DenseNet121": "f0b8a75b4c168402ccdd135aaa0262908800ac9ca4f7c6a2661e2598496a173b"
+    }
+}

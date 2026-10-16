@@ -1,0 +1,41 @@
+{
+    "model": "Ensemble Component - DenseNet121",
+    "role": "component_of_equal_weight_soft_voting_ensemble",
+    "backbone": "DenseNet121",
+    "weights": "ImageNet",
+    "include_top": false,
+    "pooling": "avg",
+    "backbone_frozen": true,
+    "head": [
+        "BatchNormalization",
+        "Dropout(0.5)",
+        "Dense(128, relu)",
+        "BatchNormalization",
+        "Dropout(0.3)",
+        "Dense(1, sigmoid)"
+    ],
+    "preprocessing": "tensorflow.keras.applications.densenet.preprocess_input",
+    "image_size": [
+        224,
+        224
+    ],
+    "batch_size": 32,
+    "epochs_requested": 20,
+    "optimizer": "Adam",
+    "learning_rate": 0.0001,
+    "loss": "binary_crossentropy",
+    "augmentation": true,
+    "label_mapping": {
+        "Fresh": 0,
+        "NonFresh": 1
+    },
+    "train_images": 1418,
+    "validation_images": 223,
+    "test_images": 261,
+    "test_used_during_training": false,
+    "checkpoint_monitor": "val_loss",
+    "checkpoint_mode": "min",
+    "ensemble_weight_planned": 0.3333333333333333,
+    "ensemble_method_planned": "equal probability averaging",
+    "seed": 42
+}

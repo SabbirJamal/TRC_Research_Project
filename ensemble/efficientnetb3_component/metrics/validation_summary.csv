@@ -1,0 +1,2 @@
+model,best_epoch,best_val_loss,best_val_accuracy,best_val_auc
+Ensemble Component - EfficientNetB3,20,0.005464878864586353,1.0,0.9999998807907104
